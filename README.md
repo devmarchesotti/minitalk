@@ -1,2 +1,2 @@
 # minitalk
-42 projecto to simulate a small talk between client and server.
+42 project to simulate a small talk between client and server.
